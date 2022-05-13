@@ -1,0 +1,39 @@
+body {
+    background-color:#e1f0ea;
+}
+
+.title {
+    text-align: center;
+
+}
+
+.plane {
+    display: flex;
+    justify-content: center;
+}
+
+
+.gif {
+    height: 195px;
+    border: white 5px solid;
+    padding: 5px;
+    margin: 9px;
+}
+
+.dubai img {
+    height: 90px;
+}
+
+.barcelona  img {
+height: 105px;
+}
+
+.display
+{
+display:flex;
+  justify-content:  space-between;
+}
+
+.italy img {
+height: 120px;
+}
